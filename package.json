@@ -1,0 +1,41 @@
+{
+  "name": "starsapp",
+  "version": "0.0.1",
+  "description": "Stars app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starsapp/starsapp.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "hot",
+    "hot",
+    "reload",
+    "hmr",
+    "live",
+    "edit",
+    "webpack"
+  ],
+  "author": "Stewart McCoy <stewart@chegg.com> (http://github.com/stewartmccoy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starsapp/starsapp/issues"
+  },
+  "homepage": "https://github.com/starsapp/starsapp",
+  "devDependencies": {
+    "babel-core": "^4.7.4",
+    "babel-loader": "^4.1.0",
+    "react-hot-loader": "^1.2.2",
+    "webpack": "^1.7.2",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "moment": "2.10.2",
+    "react": "^0.13.0"
+  }
+}
